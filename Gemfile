@@ -7,3 +7,6 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
+gem "jekflix"
+
+gem "webrick", "~> 1.7"
