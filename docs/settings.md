@@ -172,7 +172,7 @@ Set the Facebook username for the website.
 
 ```yaml
 # social.yml
-facebook_username: facebook_username
+ 
 ```
 
 #### `twitter_username`
@@ -194,7 +194,7 @@ Set the Instagram username for the website.
 
 ```yaml
 # social.yml
-instagram_username: instagram_username
+ 
 ```
 
 #### `linkedin_username`
@@ -205,7 +205,7 @@ Set the LinkedIn username for the website.
 
 ```yaml
 # social.yml
-linkedin_username: linkedin_username
+ 
 ```
 
 #### `medium_username`
@@ -216,7 +216,7 @@ Set the Medium username for the website.
 
 ```yaml
 # social.yml
-medium_username: medium_username
+ 
 ```
 
 ## Theme
