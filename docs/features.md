@@ -74,7 +74,7 @@ All icons used in the template are SVGs, providing a nice look for every resolut
 
 ## Shell script to create posts
 
-A script named [initpost.sh](https://github.com/thiagorossener/jekflix-template/blob/master/initpost.sh) is provided to make it easier to create posts by command line.
+A script named [initpost.sh](https://github.com/Han-Gigabyte/blob/master/initpost.sh) is provided to make it easier to create posts by command line.
 
 In the project directory, just run:
 

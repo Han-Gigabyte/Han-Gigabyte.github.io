@@ -4,7 +4,7 @@ Customize your website theme colors, layout, titles and more. The settings files
 
 ## Site
 
-The general settings can be found in [`src/yml/site.yml`](https://github.com/thiagorossener/jekflix-template/blob/master/src/yml/site.yml).
+The general settings can be found in [`src/yml/site.yml`](https://github.com/Han-Gigabyte/blob/master/src/yml/site.yml).
 
 > **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_config.yml`.
 
@@ -149,7 +149,7 @@ paginate: 12
 
 ## Social
 
-The social settings can be found in [`src/yml/social.yml`](https://github.com/thiagorossener/jekflix-template/blob/master/src/yml/social.yml). Social media icons appear in the footer of every page.
+The social settings can be found in [`src/yml/social.yml`](https://github.com/Han-Gigabyte/blob/master/src/yml/social.yml). Social media icons appear in the footer of every page.
 
 > **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_config.yml`.
 
@@ -221,9 +221,9 @@ Set the Medium username for the website.
 
 ## Theme
 
-The theme settings are in [`src/yml/theme.yml`](https://github.com/thiagorossener/jekflix-template/blob/master/src/yml/theme.yml). You just need to change this file and run `gulp build`.
+The theme settings are in [`src/yml/theme.yml`](https://github.com/Han-Gigabyte/blob/master/src/yml/theme.yml). You just need to change this file and run `gulp build`.
 
-> **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, follow [these instructions](https://github.com/thiagorossener/jekflix-template#theme-colors).
+> **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, follow [these instructions](https://github.com/Han-Gigabyte#theme-colors).
 
 ### GitHub pages
 
@@ -298,7 +298,7 @@ texts: "#333333"
 
 ## Posts
 
-The posts settings can be found in [`src/yml/posts.yml`](https://github.com/thiagorossener/jekflix-template/blob/master/src/yml/posts.yml).
+The posts settings can be found in [`src/yml/posts.yml`](https://github.com/Han-Gigabyte/blob/master/src/yml/posts.yml).
 
 > **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_config.yml`.
 
@@ -367,7 +367,7 @@ two_columns_layout: false
 
 ## Advanced
 
-The advanced settings can be found in [`src/yml/advanced.yml`](https://github.com/thiagorossener/jekflix-template/blob/master/src/yml/advanced.yml).
+The advanced settings can be found in [`src/yml/advanced.yml`](https://github.com/Han-Gigabyte/blob/master/src/yml/advanced.yml).
 
 > **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_config.yml`.
 

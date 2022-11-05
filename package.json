@@ -4,10 +4,10 @@
   "description": "A Jekyll theme inspired by Netflix",
   "type": "module",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://github.com/Han-Gigabyte.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/Han-Gigabyte.git"
   },
   "keywords": [
     "jekyll",
@@ -19,7 +19,7 @@
   "author": "Thiago Rossener",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://github.com/Han-Gigabyte/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",

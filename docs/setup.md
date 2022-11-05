@@ -18,7 +18,7 @@ $ npm install gulp-cli -g
 
 ## Installing template
 
-1. Fork the [Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
+1. Fork the [Jekflix Template](https://github.com/Han-Gigabyte/fork)
 2. Clone the repo you just forked:
 ```
 $ git clone https://github.com/<your-github-username>/jekflix-template.git
