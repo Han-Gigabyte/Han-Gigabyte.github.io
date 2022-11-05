@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: Bbosong
 display_name: Mr. Bbosong
 position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+bio: The newbie who wants to be a god.
 github_username: Han-Gigabyte
 instagram_username: han_s_delay
 ---
